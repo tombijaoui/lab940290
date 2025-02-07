@@ -62,7 +62,7 @@ This file is about the scraping methods we used to scrape the relevant data from
 
 ### Running the code
 Before you begin, make sure you have a BrightData account. 
-Install all the dependencies thanks to the requirements files according to the chosen website.
+Install all the dependencies thanks to the requirements files according to the chosen scraping task.
 Copy paste the following lines of codes by replacing "username" and "password" by your own username password.
 
 ``` 
